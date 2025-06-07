@@ -7,7 +7,7 @@
 
 まず、カルステップ運営から共有された **`karustep-copy-paste.zip`** という名前のZipファイルをダウンロードしてください。
 
-ダウンロードURL：　[https://xgf.nu/jxTZZ](https://xgf.nu/jxTZZ)
+ダウンロードURL：　[https://xgf.nu/8dFfy](https://xgf.nu/8dFfy)
 
 > **[重要] 保存場所に関する注意**
 > 
@@ -27,7 +27,7 @@
 ### ステップ2：Chromeの拡張機能ページを開く
 Chromeブラウザを開き、アドレスバーに以下の文字列をコピー＆ペーストして、Enterキーを押します。
 
-`chrome://extensions`
+[chrome://extensions](chrome://extensions)
 
 ### ステップ3：デベロッパーモードを有効にする
 拡張機能管理ページの右上にある**「デベロッパー モード」**というスイッチをクリックして、オン（有効）にしてください。スイッチが青色に変わります。
